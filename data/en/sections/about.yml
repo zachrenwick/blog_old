@@ -10,9 +10,9 @@ section:
 # your designation
 designation: Analytics Consultant
 # your company information
-company:
-  name: West Fraser
-  url: "https://www.westfraser.com"
+#company:
+#  name: West Fraser
+#  url: "https://www.westfraser.com"
 
 # your resume. this file path should be relative to you "static" directory
 #resume: "files/resume.pdf"

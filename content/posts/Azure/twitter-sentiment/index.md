@@ -9,8 +9,8 @@ menu:
     identifier: twitter-sentiment-analysis
     parent: azure
     weight: 10
-hero: images/twitter-sentiment.png
-tags: ["Markdown","Content Organization","Multi-lingual"]
+hero: twitter-sentiment.png
+tags: ["Twitter","Sentiment Analysis", "Azure"]
 categories: ["Basic"]
 ---
 
