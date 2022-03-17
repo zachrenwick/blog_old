@@ -49,7 +49,7 @@ badges:
 - type: certification
   name: "Analytics Engineering with dbt certificate"
   url: "https://www.credential.net/cd169b86-fdbf-46c0-bf33-4b6f482cbbfd#gs.tgvepx"
-  badge: "/images/dbt-cert.png"
+  badge: "https://github.com/zachrenwick/blog/blob/master/assets/images/dbt-cert.png?raw=true"
 
 # your soft skills
 # give the percentage between 50 to 100 with 5 intervals.
