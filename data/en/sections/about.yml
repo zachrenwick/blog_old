@@ -18,7 +18,7 @@ company:
 #resume: "files/resume.pdf"
 
 # a summary about you
-summary: 'I am a passionate data professional with 5 years of data experience. Sometimes, I work on some fun projects such as raspberrypi, soda-sql, etc.'
+summary: 'I am a passionate data professional with extensive SQL, data modeling and data visualization skills. Sometimes, I make videos on [YouTube](https://www.youtube.com/channel/UCbKfcJwWNPT4mTAlRHq4ckA) exploring the different uses of data technologies.'
 
 # your social links
 # give as many as you want. use font-awesome for the icons.
@@ -27,9 +27,18 @@ socialLinks:
   icon: "fab fa-github"
   url: "https://www.github.com/zachrenwick"
 
+- name: LinkedIn
+  icon: "fab fa-linkedin"
+  url: "https://www.linkedin.com/in/zachrenwick"
+
 - name: Twitter
   icon: "fab fa-twitter"
   url: "https://www.twitter.com/zachrenwick"
+
+- name: YouTube
+  icon: "fab fa-youtube"
+  url: "https://www.youtube.com/channel/UCbKfcJwWNPT4mTAlRHq4ckA"
+
 
 # your soft skills
 # give the percentage between 50 to 100 with 5 intervals.
