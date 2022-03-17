@@ -1,21 +1,17 @@
 ---
 title: "Incremental Refresh in Power BI"
 date: 2021-03-16T14:45:13-07:00
-draft: false
-toc: true
-hero: /posts/power-bi/incremental-refresh.png
 description: How to Make Dataset Refreshes 95% Faster
-theme: Toha
-
 menu:
   sidebar:
     name: Incremental Refresh in Power BI
-    identifier: incremental-refreshes
+    identifier: incremental-refresh
     parent: power-bi
     weight: 10
+hero: images/incremental-refresh.png
+tags: ["PowerBI"]
 
 ---
-
 ## What is incremental refresh in Power BI?
 Behind every Power BI dataset is a SQL Server Analysis Services (SSAS) tabular data model. This underlying technology has built-in partition support for larger datasets. Partitions divide tables into logical parts, which can then be refreshed independently. 
 
