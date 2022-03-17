@@ -4,13 +4,16 @@ date: 2021-03-16T14:45:13-07:00
 draft: false
 toc: true
 hero: /posts/incremental-refresh.png
-description: Adding analytics and disquss comment in hugo 
+description: How to Make Dataset Refreshes 95% Faster
 theme: Toha
+
 menu:
   sidebar:
     name: Power BI
-    identifier: incremental-refresh
-    weight: 500
+    identifier: incremental-refreshes
+    parent: power-bi
+    weight: 10
+
 ---
 
 ## What is incremental refresh in Power BI?

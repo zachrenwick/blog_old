@@ -1,8 +1,8 @@
 ---
-title: Power BI Category
+title: Power BI
 menu:
   sidebar:
-    name: Category
-    identifier: category
+    name: Power BI
+    identifier: power-bi
     weight: 20
 ---
