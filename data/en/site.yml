@@ -3,3 +3,12 @@ copyright: © 2020 Copyright.
 
 # Meta description for your site.  This will help the search engines to find your site.
 description: Portfolio and personal blog of Zach Renwick.
+
+
+# Specify OpenGraph Headers
+openGraph:
+  title: Zach Renwick's Blog
+  type: website
+  description: data and analytics blog of Zach Renwick.
+  image: images/avatar.png
+  url: https://zachrenwick.com

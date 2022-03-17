@@ -24,3 +24,7 @@ skills:
 - name: Cloud Computing
   logo: "/images/clouds.png"
   summary: "Worked with most of the major data platform cloud provider services on Google Cloud Computing and Azure."
+
+#- name: SQL
+#  logo: "/images/sql.png"
+#  summary: "SQL is the foundation of most data work."
