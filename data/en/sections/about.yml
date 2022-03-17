@@ -46,10 +46,6 @@ badges:
   url: "https://www.credly.com/badges/572f0aef-70b8-4e07-b3f3-28aee2d3724a"
   badge: "https://images.credly.com/size/340x340/images/9230b95b-2cb5-44be-bc07-301f9b753e27/image.png"
 
-- type: certification
-  name: "Analytics Engineering with dbt certificate"
-  url: "https://www.credential.net/cd169b86-fdbf-46c0-bf33-4b6f482cbbfd#gs.tgvepx"
-  badge: "https://github.com/zachrenwick/blog/blob/master/assets/images/dbt-cert.png?raw=true"
 
 # your soft skills
 # give the percentage between 50 to 100 with 5 intervals.
