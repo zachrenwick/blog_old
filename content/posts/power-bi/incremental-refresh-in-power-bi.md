@@ -8,7 +8,7 @@ menu:
     identifier: incremental-refresh
     parent: power-bi
     weight: 10
-hero: images/incremental-refresh.png
+hero:  /images/posts/incremental-refresh.png
 tags: ["PowerBI"]
 
 ---
