@@ -1,6 +1,6 @@
 ---
 title: "Creating a Python Forecasting App with Streamlit and Prophet"
-date: 2019-03-16T14:45:13-07:00
+date: 2020-05-16T14:45:13-07:00
 description: Python Streamlit App that autogenerates a forecast for export
 
 menu:

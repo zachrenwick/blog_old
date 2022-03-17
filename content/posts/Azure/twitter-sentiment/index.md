@@ -1,6 +1,6 @@
 ---
 title: "Twitter Sentiment Analysis with Azure Cognitive Services and Power BI"
-date: 2019-03-16T14:45:13-07:00
+date: 2020-03-05T14:45:13-07:00
 description: Voice of the Customer Series - Part 2
 
 menu:
