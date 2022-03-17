@@ -1,0 +1,15 @@
+# some information about you
+name: "Zach Renwick"
+nickname: "Zach"
+# greeting message before your name. it will default to "Hi! I am" if not provided
+greeting: "Hi, I am"
+image: "images/avatar.PNG"
+# give your some contact information. they will be used in the footer
+contactInfo:
+  email: "zach.renwick@gmail.com"
+
+# some summary about what you do
+summary:
+  - I love analytics engineering
+  - I love dbt
+  - I love Power BI   
