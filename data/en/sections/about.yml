@@ -40,13 +40,24 @@ socialLinks:
   url: "https://www.youtube.com/channel/UCbKfcJwWNPT4mTAlRHq4ckA"
 
 
+badges:
+- type: certification
+  name: "Microsoft Certified: Power BI Data Analyst Associate"
+  url: "https://www.credly.com/badges/572f0aef-70b8-4e07-b3f3-28aee2d3724a"
+  badge: "https://images.credly.com/size/340x340/images/9230b95b-2cb5-44be-bc07-301f9b753e27/image.png"
+
+- type: certification
+  name: "Analytics Engineering with dbt certificate"
+  url: "https://www.credential.net/cd169b86-fdbf-46c0-bf33-4b6f482cbbfd#gs.tgvepx"
+  badge: "/images/dbt-cert.png"
+
 # your soft skills
 # give the percentage between 50 to 100 with 5 intervals.
 # currently supported colors: blue, yellow, pink, green, sky, orange
-softSkills:
-- name: Leadership
-  percentage: 85
-  color: blue
-- name: Team Work
-  percentage: 90
-  color: yellow
+#softSkills:
+#- name: Leadership
+#  percentage: 85
+#  color: blue
+#- name: Team Work
+#  percentage: 90
+#  color: yellow
