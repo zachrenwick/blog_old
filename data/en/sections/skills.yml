@@ -11,15 +11,15 @@ section:
 # Your Skills.
 # Give a summary of you each skill in the summary section.
 skills:
-- name: dbt
+- name: dbt (data build tool)
   logo: "/images/dbt.png"
-  summary: "Capable of deploying, managing application on Kubernetes. Experienced in writing Kubernetes controllers for CRDs."
-  url: "https://kubernetes.io/"
+  summary: "Capable of data modeling and deploying automated data lineage and data testing for in database transformations using dbt. Part of the modern data stack"
+  url: "https://www.getdbt.com/"
 
 - name: Power BI
   logo: "/images/PowerBI.png"
-  summary: "Using as the main language for professional development. Capable of writing scalable, testable, and maintainable program."
-  url: "https://golang.org/"
+  summary: "Extensive Power BI front and back end development experience. Highly knowledgabout about Power BI adminstration, data modeling and data governance within the platform."
+  url: "https://powerbi.microsoft.com/"
 
 - name: Cloud Computing
   logo: "/images/clouds.png"

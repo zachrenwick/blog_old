@@ -1,0 +1,83 @@
+# section information
+section:
+  name: Experiences
+  id: experiences
+  enable: true
+  weight: 3
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true 
+
+# Your experiences
+experiences:
+- company:
+    name: co:rise
+    url: "https://corise.com/course/analytics-engineering-with-dbt"
+    location: Remote
+    # company overview
+    overview: co:rise accelerates your professional growth through live, small group courses created and taught by top experts.
+  positions:
+  - designation: Analytics Engineering with dbt (course/bootcamp)
+    start: Nov 2021
+    # don't provide end date if you are currently working there. It will be replaced by "Present"
+    end: Dec 2021
+    # give some points about what was your responsibilities at the company.
+    responsibilities:
+    - Designed and developed a mock data warehouse using dbt and PostgreSQL
+    - Utilized jinja SQL templating
+    - Created automated lineage graphs and docs for our data model project
+- company:
+    name: West Fraser
+    url: "https://www.westfraser.com"
+    location: Vancouver, BC / Remote
+    # company overview
+    overview: West Fraser is one of the largest lumber companies in the world.
+  positions:
+  - designation: Power BI Developer
+    start: Jul 2021
+    # don't provide end date if you are currently working there. It will be replaced by "Present"
+    # end: Dec 2020
+    # give some points about what was your responsibilities at the company.
+    responsibilities:
+    - led reporting migration from existing internal reporting tool to Power BI Premium
+    - led training sessions for end users on Power BI development and end use
+    - created high-level architecture planning documents to plan out Power BI central dataset use in organization
+
+- company:
+    name: lululemon
+    url: "https://shop.lululemon.com/"
+    location: Vancouver, BC / Remote
+    # company overview
+    overview: lululemon is one of the world's leading athleisure brands.
+  positions:
+  - designation: Power BI Developer
+    start: Aug 2020
+    # don't provide end date if you are currently working there. It will be replaced by "Present"
+    end: Jun 2021
+    # give some points about what was your responsibilities at the company.
+    responsibilities:
+    - Utilized Power BI and Snowflake data warehouse to transform data into enterprise-grade business intelligence and analytics solutions. 
+    - Development work at lululemon was focused on creating data models and dashboards for the e-commerce team (sales, web and inventory analytics)
+    - Developed a global e-commerce sales and visits semantic model to replace an existing on-premises Qlikview reporting solution
+    - Developed a near real-time e-commerce sales dashboard, which enabled up-to-the-hour sales insights
+    - Delivered an Omni order fulfillment report, which highlighted orders not meeting delivery and pickup SLAs
+
+- company:
+    name: Best Buy Canada
+    url: "https://www.bestbuy.ca/en-ca"
+    location: Vancouver, BC / Remote
+    # company overview
+    overview: Best Buy Canada's mission is to enrich the lives of customers through technology.
+  positions:
+  - designation: BI Developer
+    start: Sep 2019
+    # don't provide end date if you are currently working there. It will be replaced by "Present"
+    end: Aug 2020
+    # give some points about what was your responsibilities at the company.
+    responsibilities:
+    - Supported the digital intelligence and eCommerce teams with reports, dashboards and analysis of web and business data.
+    - Developed data pipelines with Python
+    - Supported ongoing delivery of automated reports via SSRS, Power BI and Adobe Analytics
+    - Conveyed insights to users quickly and effectively using data visualizations and tables
+    - Supported analysts on digital intelligence team with data they need to conduct ad-hoc analysis
+    - Raised the eCommerce department overall analytic IQ through formal training, workshops, insights meetings and presentations to senior leadership

@@ -47,9 +47,6 @@ softSkills:
 - name: Leadership
   percentage: 85
   color: blue
-#name: Team Work
-#percentage: 90
-#color: yellow
-#name: Agile
-#percentage: 90
-#color: green
+- name: Team Work
+  percentage: 90
+  color: yellow
