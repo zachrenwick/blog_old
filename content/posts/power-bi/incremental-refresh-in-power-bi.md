@@ -3,13 +3,13 @@ title: "Incremental Refresh in Power BI"
 date: 2021-03-16T14:45:13-07:00
 draft: false
 toc: true
-hero: /posts/incremental-refresh.png
+hero: /posts/power-bi/incremental-refresh.png
 description: How to Make Dataset Refreshes 95% Faster
 theme: Toha
 
 menu:
   sidebar:
-    name: Power BI
+    name: Incremental Refresh in Power BI
     identifier: incremental-refreshes
     parent: power-bi
     weight: 10

@@ -27,6 +27,12 @@ params:
   # specify whether you want to write some blog posts or not
   enableBlogPost: true
 
+  features:
+    analytics:
+      enabled: true
+      google:
+        id: G-SH8P4T8C3W
+
   #background
   background: /images/site/background.jpg
 
