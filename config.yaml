@@ -1,7 +1,7 @@
 baseURL: https://hugo-toha.github.io
 
 languageCode: en-us
-title: "Zach Renwick: data pro"
+title: "📈 Zach Renwick"
 theme: "toha"
 
 # Manage languages
@@ -24,10 +24,6 @@ enableEmoji: true
 
 # Site parameters
 params:
-  # GitHub repo URL and branch of your site
-  gitRepo: https://github.com/zachrenwick/toha_blog
-  gitBranch: main
-
   # specify whether you want to write some blog posts or not
   enableBlogPost: true
 
