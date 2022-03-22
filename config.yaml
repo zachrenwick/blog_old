@@ -51,7 +51,7 @@ params:
         id: G-SH8P4T8C3W
 
   #background
-  background: /images/site/background.jpg
+  background: /images/site/splash.jpg
 
   # specify whether you want to show Table of Contents in reading page
   enableTOC: true
