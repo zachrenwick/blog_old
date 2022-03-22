@@ -1,4 +1,4 @@
-baseURL: https://hugo-toha.github.io
+baseURL: https://infallible-brown-5405ad.netlify.app
 
 languageCode: en-us
 title: "📈 Zach Renwick"
@@ -24,7 +24,6 @@ markup:
 outputs:
   home:
     - HTML
-    - RSS
     - JSON
 
 
