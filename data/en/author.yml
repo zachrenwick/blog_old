@@ -3,7 +3,7 @@ name: "Zach Renwick"
 nickname: "Zach"
 # greeting message before your name. it will default to "Hi! I am" if not provided
 greeting: "Hi, I am"
-image: "images/portrait.png"
+image: "images/avatar.PNG"
 # give your some contact information. they will be used in the footer
 contactInfo:
   email: "zach.renwick@gmail.com"
