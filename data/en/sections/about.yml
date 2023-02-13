@@ -40,11 +40,11 @@ socialLinks:
   url: "https://www.youtube.com/channel/UCbKfcJwWNPT4mTAlRHq4ckA"
 
 
-badges:
-- type: certification
-  name: "Microsoft Certified: Power BI Data Analyst Associate"
-  url: "https://www.credly.com/badges/572f0aef-70b8-4e07-b3f3-28aee2d3724a"
-  badge: "https://images.credly.com/size/340x340/images/9230b95b-2cb5-44be-bc07-301f9b753e27/image.png"
+#badges:
+#- type: certification
+#  name: "Microsoft Certified: Power BI Data Analyst Associate"
+#  url: "https://www.credly.com/badges/572f0aef-70b8-4e07-b3f3-28aee2d3724a"
+#  badge: "https://images.credly.com/size/340x340/images/9230b95b-2cb5-44be-bc07-301f9b753e27/image.png"
 
 
 # your soft skills
