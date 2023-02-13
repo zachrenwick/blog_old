@@ -1,10 +1,6 @@
 [build]
-command = "hugo --gc --minify"
-publish = "public"
+  command = "hugo"
+  publish = "public"
 
-[context.production.environment]
-HUGO_ENABLEGITINFO = "true"
-HUGO_ENV           = "production"
-HUGO_THEME         = "toha"
-HUGO_VERSION       = "0.95.0"
-
+[build.environment]
+  HUGO_VERSION = "0.95.0"
